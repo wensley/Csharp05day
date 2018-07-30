@@ -64,8 +64,7 @@ namespace _05for
                         b++;
                     }
             }
-
-
+            
             Console.ReadKey();
         }
     }

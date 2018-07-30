@@ -33,7 +33,6 @@ namespace _02do_while
              {
                      sum = sum + i;
                      i++;
-
              }
              Console.WriteLine(sum);
              Console.ReadKey();

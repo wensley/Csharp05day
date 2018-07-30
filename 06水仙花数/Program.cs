@@ -24,7 +24,7 @@ namespace _06水仙花数
             }
             Console.ReadKey();
             */
-
+        
             //例子
             int k = 0;
             for (int i = 0; i < 10; i++)

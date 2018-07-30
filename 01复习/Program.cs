@@ -57,7 +57,6 @@ namespace _01复习
             }
 
             Console.WriteLine(year);
-
             Console.ReadKey();
 
         }
